@@ -1,0 +1,565 @@
+[
+    {
+        "image":"image/nexon.png",
+        "name":"Tata Nexon",
+        "price":"15 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"24.08 kmpl",
+        "body":"SUV"
+    },
+    {
+        "image":"image/thar.png",
+        "name":"mahindra thar",
+        "price":"16.94 lakh",
+        "year":"2023",
+        "seater":"4 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"15.2 kmpl"
+        
+
+    },
+    {
+        "image":"image/exter.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/kwid.png",
+        "name":"renault kwid climber DT AMT",
+        "price":"6.45 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"22.3 kmpl"
+    },
+    {
+        "image":"image/punch.png",
+        "name":"tata punch creative flagship AMTT DT ",
+        "price":"10.10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"18.8 kmpl"
+    },
+    {
+        "image":"image/creta.webp",
+        "name":"hyundai creata SX opt turbo DCT ",
+        "price":"14.14 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"25.51 kmpl"
+    },
+    {
+        "image":"image/brezza.webp",
+        "name":"maruti breeza zxi plus AT",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol & CNG",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/fronx.webp",
+        "name":"maruti fronx",
+        "price":"13.14 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"28.51 kmpl"
+    },
+    {
+        "image":"image/baleno.png",
+        "name":"maruti baleno alpha AMT ",
+        "price":"9.88 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"22.94 kmpl"
+    },
+    {
+        "image":"image/presso.webp",
+        "name":"maruti S-presso VXl plus",
+        "price":"5.50 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/volvo.webp",
+        "name":"volvo c40 recharge ",
+        "price":"61.25 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"electric",
+        "mileage":"530 km/full charge"
+    },
+    {
+        "image":"image/seltos.webp",
+        "name":"kia seltos X-Line Turbo DCT",
+        "price":"20 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"17.9 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"kia carnival",
+        "price":"40 lakh",
+        "year":"2023",
+        "seater":"7 seater",
+        "transmission":"manual",
+        "fuel":"disel",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/nexon.png",
+        "name":"hyundai exter sx ",
+        "price":"10 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"petrol",
+        "mileage":"19.2 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    },
+    {
+        "image":"image/sonet.webp",
+        "name":"kia sonet",
+        "price":"14.89 lakh",
+        "year":"2023",
+        "seater":"5 seater",
+        "transmission":"automatic",
+        "fuel":"disel",
+        "mileage":"18.4 kmpl"
+    }
+]

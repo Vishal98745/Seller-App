@@ -1,0 +1,110 @@
+.main-card{
+    /* background-color: aqua; */
+    margin: 5px;
+    justify-content: center;
+}
+.card{
+    margin-right: 10px;
+    margin-left: 30px;
+    margin-bottom:20px;
+    margin-top: 10px;
+    border: 2px solid red;
+    width: 460px;
+    text-transform: capitalize;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+.card img{
+    width: 440px;
+    padding: 5px;
+    border-radius: 20px;
+}
+.heading p{
+    border: 2px dotted blue;
+    border-radius: 15px;
+    padding: 10px;
+}
+.detail-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.detail-2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-detail{
+    display: flex;
+    justify-content: space-between;
+}
+.price-detail p{
+    font-size: 22px;
+}
+.button-content i{
+    margin-right: 5px;
+    font-size: 20px;
+    background-color: rgb(194, 254, 234);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.button-content button{
+    border-radius: 15px;
+    padding: 5px;
+    text-transform: capitalize;
+    background-color:rgb(7, 84, 249);
+    color: white;
+}
+.button-content button:hover{
+    background-color: rgb(5, 232, 156);
+}
+.navigation{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.navigation .active {
+    background-color:purple; 
+    color: #fff; 
+    border: 1px solid #007bff; 
+    padding: 10px 18px;
+    margin: 0 5px; 
+    cursor: pointer;
+  }
+  
+  
+  .navigation button:not(.active) {
+    background-color: #fff; 
+    color: green; 
+    border: 1px solid #007bff; 
+    padding: 12px 18px; 
+    margin: 0 5px; 
+    cursor: pointer;
+  }
+  .navigation button:hover{
+    background-color:#007bff ;
+    color: white;
+  }
+  
+  button[disabled] {
+    background-color: #ccc; 
+    color: #666; 
+    border: 1px solid #ccc; 
+    cursor: not-allowed;
+  }
+
+.search{
+    text-align: center;
+    margin: 10px;
+}
+.search input{
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.navigation button{
+    border-radius: 50%;
+    
+}
